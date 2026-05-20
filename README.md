@@ -1,5 +1,5 @@
 # vibe coding Bolt OTA Hotel Website
-
+## vibe-ota-hotel-01
 一个基于 React + TypeScript + Vite 构建的OTA酒店代运营官网项目，模拟类似 OTA（代运营服务）平台的核心功能。
 > 全程基于 Bolt coding 纯前端项目
 ## 页面预览
