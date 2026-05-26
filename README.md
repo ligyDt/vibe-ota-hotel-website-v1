@@ -1,5 +1,5 @@
 # vibe coding Bolt OTA Hotel Website
-## vibe-ota-hotel-01
+
 一个基于 React + TypeScript + Vite 构建的OTA酒店代运营官网项目，模拟类似 OTA（代运营服务）平台的核心功能。
 > 全程基于 Bolt coding 纯前端项目
 ## 页面预览
@@ -70,8 +70,8 @@ boltnew-ota-hotel-website1/
 
 1. **克隆代码仓库**
    ```bash
-   git clone https://github.com/ligyDt/boltnew-ota-hotel-website1.git
-   cd boltnew-ota-hotel-website1
+   git clone https://github.com/ligyDt/vibe-ota-hotel-website-v1.git
+   cd vibe-ota-hotel-website-v1
    ```
 
 2. **安装依赖**
@@ -162,4 +162,4 @@ MIT License
 ## 联系方式
 
 - 作者：ligyDt
-- 仓库地址：https://github.com/ligyDt/boltnew-ota-hotel-website1
+- 仓库地址：https://github.com/ligyDt/vibe-ota-hotel-website-v1
